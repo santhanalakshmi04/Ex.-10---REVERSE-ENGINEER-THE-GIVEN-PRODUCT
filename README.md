@@ -8,7 +8,7 @@
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software
 ### ●	 Autodesk Fusion 360
-### ●	 System - Windows 7 or higher, 1 GB RAM.
+### ●	 System - Windows 7 or higher, 1 GB RAM. 
 
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
@@ -31,11 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/45e7d132-d735-4bc4-a87e-58715c3cd401)
 
 ### Output:
+![Screenshot (68)](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/79a58faf-02ff-46d7-9132-4922f81c6cc6)
+![Screenshot (95)](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/1ac3b954-ddf0-4cfc-9f63-07cfac34fd69)
 
 
-### Name:K.SANTHANA LAKSHMI
+### Name: K.SANTHANA LAKSHMI
 ### Register Number: 212222240091
 
 ## RESULT:
